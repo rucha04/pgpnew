@@ -1,0 +1,4 @@
+MONGOOSE_URL =mongodb://new_user:TzYe2EAggom30lKu@cluster0-shard-00-00.xx1kh.mongodb.net:27017,cluster0-shard-00-01.xx1kh.mongodb.net:27017,cluster0-shard-00-02.xx1kh.mongodb.net:27017/rest_api_tutorial?ssl=true&replicaSet=atlas-jia8gz-shard-0&authSource=admin&retryWrites=true&w=majority
+PORT = 3000
+SECRET_KEY=kjKLKJKHKJdsfsgJKJHKJHdsaasdKJHHkjhBKJhIU7Y7657hj6T7
+
